@@ -135,4 +135,4 @@ if __name__ == '__main__':
 
     #Натренировать knn классификатор и использовать его в алгоритме Витерби
     #Поставь вверху use_train_templ = False
-    start_hmm_knn(iso_d)
+    #start_hmm_knn(iso_d)
